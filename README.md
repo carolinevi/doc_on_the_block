@@ -4,7 +4,7 @@ An innovated  way for for users to be more accessible to finding doctors near th
 
 # Who are we? 
 My name is Caroline Vivanco and this is my Girls Who Code final project! I worked on it with my fellow friends, Hajar and Sasha from Girls
-Who Code. We are deeply passionate about using tech to provide resources for underprivledged communities - so for our final project 
+Who Code. We are deeply passionate about using tech to provide resources for underprivileged communities - so for our final project 
 we created Doc on the Block. 
 # What is it?
 A web app for users to find doctors near them based on their location and their symptoms. 
