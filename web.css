@@ -1,0 +1,15 @@
+p{
+    Font-size: 500px;
+    color: blue; #always cose with semi colon
+
+
+}
+body{
+  background-color: pink;
+}
+.Caroline p{
+  color: yellow;
+}
+.Caroline h1{
+  color: green;
+}

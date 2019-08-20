@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+  text-align: center;
+
+
+}
+
+ /*HJow can we make the bodyContent div backgroud white*/
+ #bodyContent{
+   background-color: white;
+
+ }
+/* We want the biggest header to be red */
+head{
+  
+}

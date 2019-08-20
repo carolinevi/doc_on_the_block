@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #b6d9fa
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #3289a8;
+  color: white;
+}
+body{
+  background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=5a85bc9534&attid=0.1.1&permmsgid=msg-f:1641051651342594864&th=16c62fc84057f330&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ8w7JsEv_94eVoTjUplm1PRz6bqk5JDDj9MHYd-fF7tiPJvol9lHlH66Odq1dYQpTh3USvcGPloVjqxN61j197fZW7NawNzOmXfjWHp28P6pT8Lofnvdrzv6rM&disp=emb);
+
+}
+
+.doc{
+  font-weight: bold;
+  text-align: center;
+  color: #3984ed;
+  font-size: 38px;
+  border-style: double;
+  width: 25%;
+  background-color: #bff3ff;
+  margin-left: 38%;
+  margin-top: 8%;
+
+
+
+}
+
+.divider{
+  margin-left: 38%;
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 22.5px;
+  font-weight: bold;
+  left: 100px;
+  right: 50px;
+  vertical-align: middle;
+
+
+}
+
+.introText {
+  margin-left: 12%;
+  margin-top: 3.5%;
+}
+
+.lastText {
+  margin-top: -4%;
+}
+
+
+
+
+button{
+  color:white;
+  background-color:#3289a8;
+  border
+  border-radius:1500px;
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
+  height:50px;
+  width:50px;
+  text-align: center;
+  bottom: 50%;
+}
+
+#slideshow1{
+  width: 374px;
+
+}
+
+.slideshowArea{
+  margin:auto;
+  margin-left:30%;
+  margin-top: -9%;
+
+}
+
+#gif1{
+  margin-left: 19%;
+}
+
+#gif2{
+  margin-left:0%;
+}
+#gif3{
+  margin-left: 0%;
+}
+
+#gif4{
+  margin-left: 0%;
+}
+
+.txt{
+  background-color:white;
+  width: 300px;
+  border: 15px solid #B7E3E6;
+  padding: 50px;
+  margin: 20px;
+  height: 175px;
+
+}
+
+#first{
+  margin-left:3%;
+}
+
+#introducing p{
+  margin-left:-3%;
+  margin-top: -20%;
+  color: #3289a8;
+  font-family: 'Sanchez', serif;
+  font-size: 25px;
+
+}
+
+#name{
+  width: 425px;
+  height: 270px;
+  margin-top:-5%;
+}
+
+#last{
+  margin-left:65%;
+  margin-right: 3%;
+  margin-top: -23.5%;
+
+}
+ #name img{
+  text-align: center;
+  height:480px;
+  width:600px;
+}
